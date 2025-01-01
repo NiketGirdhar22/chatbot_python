@@ -155,7 +155,3 @@ You can also test the API using tools like Postman or your browser.
 ## Contributing
 
 Feel free to fork this repository, submit issues, or create pull requests. Contributions are welcome!
-
-## License
-
-This project is licensed under the MIT License.
