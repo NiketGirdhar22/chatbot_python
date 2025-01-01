@@ -1,0 +1,146 @@
+{
+    "greetings": [
+        "Hello there!",
+        "Hi, how are you today?",
+        "Good morning!",
+        "Hey, what's up?",
+        "Hello! How can I help you today?",
+        "Hey, it's great to see you!",
+        "How's it going?",
+        "Hi, hope you're having a great day!"
+    ],
+    "positive": [
+        "That's great! Keep it up!",
+        "I'm so glad to hear that!",
+        "You're on the right track, keep going!",
+        "Awesome! You're doing amazing!",
+        "Nice job! Keep the momentum going!",
+        "You're doing fantastic, don’t stop now!"
+    ],
+    "negative": [
+        "I'm sorry you're feeling that way.",
+        "It'll get better soon, just hang in there!",
+        "Don’t worry, things will improve.",
+        "I hope things turn around for you soon.",
+        "That sounds tough, but I believe things will get better!",
+        "It’s okay to have bad days, better ones are ahead!"
+    ],
+    "questions": [
+        "What do you need help with today?",
+        "How can I assist you?",
+        "Feel free to ask me anything.",
+        "What’s on your mind? I'm all ears.",
+        "Is there something specific you'd like to talk about?",
+        "Anything in particular you're curious about?"
+    ],
+    "anger": [
+        "I sense you're frustrated. Let’s work through this together.",
+        "I understand you're upset. What can we do to make it better?",
+        "I hear your frustration. Would you like to talk about it more?",
+        "It seems like you're angry, but I'm here to listen if you want to vent.",
+        "You're upset, and that’s okay. Let’s figure this out."
+    ],
+    "surprise": [
+        "Wow, that’s surprising!",
+        "Oh, that’s a shocker!",
+        "Didn’t see that coming! Tell me more.",
+        "That's unexpected! What happened?",
+        "What a twist! I didn’t expect that!"
+    ],
+    "disgust": [
+        "That doesn't sound pleasant at all.",
+        "Yikes, that sounds awful! Do you want to talk about it?",
+        "That’s tough, I understand how you feel. Let's chat if you need to.",
+        "I can imagine how uncomfortable that must be. Want to share more?"
+    ],
+    "fear": [
+        "I understand your concerns. It's okay to feel scared sometimes.",
+        "It seems like you're anxious. How can I help you through this?",
+        "Fear can be tough, but you're not alone. I’m here for you.",
+        "You're not alone in feeling afraid. What's going on? I'm here to help.",
+        "It's natural to feel fear, but we can work through it together."
+    ],
+    "love": [
+        "That’s so sweet! Love makes everything brighter.",
+        "Love makes everything better. I'm glad you're feeling it!",
+        "I’m glad you’re feeling the love! It’s always nice to share positive vibes.",
+        "Love is powerful! I’m happy to hear you're feeling it!"
+    ],
+    "sadness": [
+        "I'm here if you need to talk. You're not alone.",
+        "It's okay to feel sad sometimes. I'm listening if you want to share more.",
+        "I'm really sorry you're feeling down. Want to talk about what's going on?",
+        "It's okay to have tough days. I'm here to support you.",
+        "I understand that you're feeling sad. I’m here to listen whenever you're ready."
+    ],
+    "confusion": [
+        "Let's work through this together. I’m sure we can figure it out!",
+        "I think I can help clear things up. What’s causing the confusion?",
+        "Could you elaborate a little more? I’ll do my best to understand.",
+        "I see that you're confused. Let’s sort it out step by step."
+    ],
+    "boredom": [
+        "Let’s make this more exciting! What would you like to do?",
+        "I can help with that, let’s do something fun!",
+        "Looking for something interesting to do? I’ve got some ideas!",
+        "Let’s make things more fun! Got anything exciting in mind?",
+        "Feeling bored? I can help make things more fun!"
+    ],
+    "gratitude": [
+        "You're very welcome! It’s my pleasure.",
+        "It was my pleasure to help you. Anytime!",
+        "I'm happy I could help! Feel free to reach out anytime.",
+        "You’re welcome! It’s always a pleasure to help.",
+        "Glad I could be of assistance! Don’t hesitate to ask if you need more."
+    ],
+    "excitement": [
+        "I’m excited too! Let’s make this an amazing moment.",
+        "You’ve got me pumped! This is going to be fun!",
+        "Let’s make this even more exciting together!",
+        "I love the enthusiasm! Let’s make this a great time!",
+        "I’m super excited about this! Let’s do it!"
+    ],
+    "sarcasm": [
+        "I get the sarcasm! What's really going on? I'm here to listen.",
+        "Haha, I see what you're doing there! But, if you need to talk seriously, I’m here.",
+        "I’ll take that with a pinch of salt. What can I really help you with?",
+        "I get it. A little sarcasm never hurts, but let’s get to the heart of it."
+    ],
+    "calm": [
+        "Take a deep breath, everything’s going to be okay.",
+        "It’s good to stay calm. I’m here to help you through this.",
+        "Let’s take things slow and steady. You’ve got this!",
+        "Stay calm, you're doing fine. I’m here to support you."
+    ],
+    "hope": [
+        "There’s always hope, things can improve from here.",
+        "Don’t give up. Hope is the thing that can get you through.",
+        "Even when things are tough, there's always hope for better days.",
+        "Things may seem tough now, but hope is what keeps us going."
+    ],
+    "grief": [
+        "I'm so sorry you're going through this. I'm here if you want to talk.",
+        "Grief can be heavy, but you don’t have to carry it alone.",
+        "Take your time, grief is a process. I'm here for you whenever you’re ready.",
+        "It’s okay to grieve. Take your time, I’ll be here when you need to talk."
+    ],
+    "support": [
+        "I’m here to support you, no matter what you're going through.",
+        "You're not alone. I’ll stand by you through this.",
+        "You’ve got my full support. We’ll get through this together.",
+        "No matter what you're facing, I’m here for you. You don’t have to go through it alone."
+    ],
+    "small_talk": [
+        "So, what have you been up to lately?",
+        "Anything exciting on your mind today?",
+        "I’m curious, what’s your favorite hobby?",
+        "What’s been the highlight of your week so far?",
+        "Have you watched any good movies recently?"
+    ],
+    "random_statements": [
+        "Did you know that honey never spoils?",
+        "I once read that octopuses have three hearts. Isn’t that wild?",
+        "Here’s a fun fact: A day on Venus is longer than a year on Venus!",
+        "I bet you didn’t know that bananas are technically berries!"
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "greetings": [
+        "Hello! How can I assist you today?",
+        "Hi there! How can I help you?",
+        "Good morning! What can I do for you?",
+        "Good evening! How are you doing today?",
+        "Hey, great to see you! What can I do for you today?",
+        "Hello there! What’s on your mind today?"
+    ],
+    "positive": [
+        "I'm so glad you're feeling good!",
+        "That's wonderful! Keep up the positive vibes!",
+        "Awesome! Let's keep the good energy going!",
+        "I'm happy you're feeling great!",
+        "Great to hear that! What’s next on the agenda?",
+        "I love hearing positive news! Keep it going!"
+    ],
+    "negative": [
+        "I'm sorry you're feeling down. How can I help?",
+        "That's unfortunate. I'm here if you need anything.",
+        "I understand, tough times don't last. Let's talk about it!",
+        "It'll get better, I'm here if you want to chat.",
+        "I’m sorry to hear that. Do you want to share what's on your mind?",
+        "I know things are hard right now, but you're not alone in this."
+    ],
+    "questions": [
+        "That's an interesting question! Let me help you with that.",
+        "Let me check that for you.",
+        "Great question! I’ll try to answer as best I can.",
+        "Could you clarify a bit more? I'd love to assist you.",
+        "That’s a good one! I’ll look into it for you.",
+        "I’ve got your question! Let me help out."
+    ],
+    "anger": [
+        "I'm really sorry you're feeling angry. Do you want to talk about it?",
+        "I can sense you're frustrated. What's bothering you?",
+        "I understand how frustrating this can be. Want to discuss it?",
+        "It sounds like you're having a tough time. Let me know how I can help.",
+        "I get it, you're upset. Let's see what we can do to help.",
+        "I hear you! It’s okay to feel angry, let’s figure this out together."
+    ],
+    "surprise": [
+        "I can tell you're surprised! What's going on?",
+        "Wow, that's an unexpected turn! Tell me more!",
+        "Sounds like something really surprising happened!",
+        "I'm glad I could catch you off guard! What's next?",
+        "That’s a plot twist! What happened?",
+        "Surprised, huh? Let’s dive into it!"
+    ],
+    "disgust": [
+        "That sounds unpleasant. I'm here if you need a distraction.",
+        "Yikes, that’s not fun at all. Want to talk about it?",
+        "I get that. Sometimes things just feel off.",
+        "That’s a bummer. Let me know if you want to chat about it.",
+        "Ugh, sounds awful. I’m here to listen if you need to vent."
+    ],
+    "fear": [
+        "It seems you're feeling a little anxious. What's going on?",
+        "That sounds scary. Would you like to talk about it?",
+        "I understand fear is tough. How can I support you?",
+        "I'm here if you need comfort or help through it.",
+        "Fear can be overwhelming, but we’ll work through it together.",
+        "I’m here to help you face those fears. Let me know how I can support you."
+    ],
+    "love": [
+        "That's sweet! Love makes everything better.",
+        "I love that! Spread the love!",
+        "You're radiating positive energy! So sweet!",
+        "Love is a wonderful feeling. Stay positive!",
+        "That’s beautiful! Love is such a powerful force.",
+        "You’ve got a great vibe. Keep sharing that love!"
+    ],
+    "sadness": [
+        "I'm really sorry you're feeling sad. I'm here to listen.",
+        "It's okay to feel down. Do you want to talk about it?",
+        "Sadness can be tough. Let's get through this together.",
+        "I'm here for you, even on the tough days.",
+        "I’m so sorry you're going through this. I'm here for you if you need to talk.",
+        "I understand. Sometimes it helps to talk it through."
+    ],
+    "confusion": [
+        "It seems like you're confused. Let’s clear things up together.",
+        "Not sure? Let me help guide you through it.",
+        "Confusion is normal! Let's figure this out.",
+        "Can you tell me more about what’s confusing you?",
+        "I can help with that. Let’s go step by step.",
+        "Let's sort this out. What part seems unclear?"
+    ],
+    "boredom": [
+        "Looks like you’re bored. How about trying something new?",
+        "I know the feeling. Let's make things interesting!",
+        "Boredom can be tough. Want me to suggest something fun?",
+        "I'm here to help! Let’s find something exciting to do.",
+        "Feeling bored? Let’s brainstorm something fun together!",
+        "Let’s turn that boredom into something fun! What’s on your mind?"
+    ],
+    "gratitude": [
+        "You're so welcome! I'm happy to help.",
+        "It was my pleasure! Let me know if you need anything else.",
+        "I’m glad I could assist you! Feel free to reach out anytime.",
+        "Thank you for your kind words!",
+        "It was my pleasure to help! Don’t hesitate to ask more.",
+        "I’m always happy to help. Glad I could be of service!"
+    ],
+    "excitement": [
+        "I’m excited too! What’s next on your mind?",
+        "Wow, you sound excited! What’s going on?",
+        "Let’s share this excitement together! Tell me more!",
+        "I love your energy! Let's make this even more exciting!",
+        "Your excitement is contagious! What are we diving into next?",
+        "I’m all in! Let’s make this as exciting as possible!"
+    ],
+    "sarcasm": [
+        "Ah, I see you're using sarcasm! What's really going on?",
+        "Haha, I get it! I’ll take that with a pinch of salt.",
+        "I sense the sarcasm, but I’m here to help if needed.",
+        "Sarcasm noted! Let me know how I can assist you.",
+        "I see you're being playful! Let me know if you need any help.",
+        "I’m catching that sarcasm! But seriously, how can I assist you?"
+    ]
+}
